@@ -9,6 +9,6 @@ bip-utils==2.7.0
 pytonlib==0.0.42
 prettytable==3.8.0
 solana==0.29.0
-spl-token==3.2.0
+spl-token
 sqlalchemy==2.0.19
 apscheduler==3.10.1
